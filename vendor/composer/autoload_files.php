@@ -11,5 +11,6 @@ return array(
     '2c102faa651ef8ea5874edb585946bce' => $vendorDir . '/swiftmailer/swiftmailer/lib/swift_required.php',
     'a0edc8309cc5e1d60e3047b5df6b7052' => $vendorDir . '/guzzlehttp/psr7/src/functions_include.php',
     '180092cfc969a12e06f2132a203a3184' => $vendorDir . '/codeception/verify/src/Codeception/function.php',
-    'b96d8fb6c752c02fd8238ba4cc2dca99' => $vendorDir . '/Myext/Functions/Functions.php',
+    'f084d01b0a599f67676cffef638aa95b' => $vendorDir . '/smarty/smarty/libs/bootstrap.php',
+    '6ac4282861d48768312e3655e3f33227' => $vendorDir . '/Myext/Functions/Functions.php',
 );

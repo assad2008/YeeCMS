@@ -8,10 +8,10 @@ $config = [
     'bootstrap' => ['log'],
     'components' => [
         'request' => [
-            'cookieValidationKey' => 'yeecmscWSliKq975OIoFn_FVHjJOz3GUZiyy9g',
+            'cookieValidationKey' => 'yeecmsc_WSliKq975OIoFn_FVHjJOz3GUZiyy9g',
         ],
         'session' => [
-            'name' => 'yeecms',
+            'name' => 'yeecms_',
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
