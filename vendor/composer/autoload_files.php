@@ -12,5 +12,7 @@ return array(
     '2c102faa651ef8ea5874edb585946bce' => $vendorDir . '/swiftmailer/swiftmailer/lib/swift_required.php',
     'f084d01b0a599f67676cffef638aa95b' => $vendorDir . '/smarty/smarty/libs/bootstrap.php',
     '180092cfc969a12e06f2132a203a3184' => $vendorDir . '/codeception/verify/src/Codeception/function.php',
+    '36795dc0cc588020fda3680dffb905a4' => $vendorDir . '/codeception/base/shim.php',
+    '4a08784919981e29eb0c6f44a2f7a0af' => $vendorDir . '/codeception/base/phpunit5-loggers.php',
     '6ac4282861d48768312e3655e3f33227' => $vendorDir . '/Myext/Functions/Functions.php',
 );
