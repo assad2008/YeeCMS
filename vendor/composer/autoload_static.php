@@ -13,8 +13,6 @@ class ComposerStaticInit16d626d19ff314e9dff8c59864dc4b66
         '2c102faa651ef8ea5874edb585946bce' => __DIR__ . '/..' . '/swiftmailer/swiftmailer/lib/swift_required.php',
         'f084d01b0a599f67676cffef638aa95b' => __DIR__ . '/..' . '/smarty/smarty/libs/bootstrap.php',
         '180092cfc969a12e06f2132a203a3184' => __DIR__ . '/..' . '/codeception/verify/src/Codeception/function.php',
-        '36795dc0cc588020fda3680dffb905a4' => __DIR__ . '/..' . '/codeception/base/shim.php',
-        '4a08784919981e29eb0c6f44a2f7a0af' => __DIR__ . '/..' . '/codeception/base/phpunit5-loggers.php',
         '6ac4282861d48768312e3655e3f33227' => __DIR__ . '/..' . '/Myext/Functions/Functions.php',
     );
 
